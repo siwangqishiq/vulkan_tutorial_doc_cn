@@ -9,5 +9,10 @@
         "other": "on",
         "comments": "off",
         "strings": "on"
+    },
+    "files.associations": {
+        "vector": "cpp",
+        "fstream": "cpp",
+        "limits": "cpp"
     }
 }
